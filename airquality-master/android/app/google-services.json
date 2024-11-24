@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086256299140",
+    "project_id": "airquality-6b4f0",
+    "storage_bucket": "airquality-6b4f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086256299140:android:29fff99a5933e91d6a56d1",
+        "android_client_info": {
+          "package_name": "com.example.co2monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdKgfsWQkgcRbq-WQCfhz1_mhUuQuKUs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
